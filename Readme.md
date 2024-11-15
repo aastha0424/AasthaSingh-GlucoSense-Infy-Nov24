@@ -1,5 +1,5 @@
 
-# Diabetes Classification Project
+# Identification of Diabetes in a person based on healthcare statistics.
 
 ## 📋 Project Overview
 This project aims to build a reliable classification model to predict the presence of diabetes based on a range of symptoms and demographic factors. The dataset includes various features like age, gender, and symptoms such as Polyuria, Polydipsia, Weakness, and more.
